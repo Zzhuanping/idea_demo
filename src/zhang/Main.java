@@ -16,7 +16,7 @@ public class Main {
     public static void otherMethod(){
 
 
-        System.out.println("why can i not push this");
+        System.out.println("this is main class");
     }
 
 }
